@@ -8,7 +8,7 @@ terraform {
 }
 
 resource "aws_s3_bucket" "b" {
-  bucket = "my-mfundo-test-bucket"
+  bucket = "my-Nkulee-test-bucket"
 
   tags = {
     Name        = "My bucket"

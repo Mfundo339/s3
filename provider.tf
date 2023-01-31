@@ -1,4 +1,4 @@
 provider "aws" {
-  profile = "omeda"
+  profile = "personal"
   region  = "eu-west-1"
 }
